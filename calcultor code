@@ -1,0 +1,12 @@
+a = 2
+b = 3
+addtion = a + b
+print( a,"+", b, "is" , addtion)
+sub = a - b
+print ( a, "-", b, "is", sub)
+multi = a * b
+print ( a, "*", b, "is", multi)
+division = a / b
+print ( a, "/", b, "is", division)
+floor = a // b
+print ( a, "//", b, "is", floor)
